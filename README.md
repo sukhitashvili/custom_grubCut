@@ -2,8 +2,7 @@
 
 *Instructions*:
 
-You can call the script from command line with additional argument **folder name** (where data is located).
-You can try with included *data* folder in the *labler* folder this way:
+You can call the script from command line with additional argument **folder name** (where data is located):
 > python grabcut.py data
 
 After this two windows will show up, one for input and one for output. The output window will show 
